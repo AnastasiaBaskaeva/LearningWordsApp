@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Изучение Слов</string>
+    <string name="tv_correct">Правильно!</string>
+    <string name="tv_wrong">Неправильно!</string>
+    <string name="button_skip">ПРОПУСТИТЬ</string>
+    <string name="button_continue">ПРОДОЛЖИТЬ</string>
+    <string name="button_close_description">Кнопка закрытия</string>
+    <string name="icon_correct">Иконка пальца вверх</string>
+</resources>

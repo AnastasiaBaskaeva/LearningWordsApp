@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text_variants">#888992</color>
+    <color name="text_title">#202027</color>
+    <color name="container_var_border">#CCCCD0</color>
+    <color name="number_rounded">#EEEEEF</color>
+    <color name="panel_green">#0EAD69</color>
+    <color name="button_skip">#2574FF</color>
+    <color name="wrong_answer">#FA4169</color>
+
+</resources>
