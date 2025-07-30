@@ -138,7 +138,7 @@
         android:backgroundTint="@color/button_skip"
         android:background="@drawable/shape_button_footer"
         android:textColor="@color/white"
-        tools:text="SKIP"
+        android:text="@string/button_skip"
         style="@style/ButtonBottom"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
